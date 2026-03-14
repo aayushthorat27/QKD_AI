@@ -354,12 +354,6 @@ for idx in reversed(top_5_idx):
 - QKD simulation data: 40,000 synchronized experiments varying distance, noise, and hardware
 - 10 protocols, 4 platforms, 100 distinct configurations
 
-## License & Attribution
-
-**Author**: Generated with Claude Code (Anthropic)
-**Date**: March 2026
-**Status**: MVP (Minimum Viable Product)
-
 ---
 
 For questions or to contribute improvements, please contact the quantum communication project team.
