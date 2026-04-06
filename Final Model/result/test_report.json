@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-04T23:21:56.629769",
+  "sections": {
+    "Model Loading": {
+      "tests": [
+        {
+          "name": "Load model",
+          "passed": true,
+          "details": "Model loaded successfully"
+        },
+        {
+          "name": "Load label encoder",
+          "passed": true,
+          "details": "Protocols: ['B92', 'BB84', 'BBM92', 'DS6-QKD', 'Decoy-BB84', 'EEPM-QKD', 'Novel', 'SARG04', 'Six-State']"
+        },
+        {
+          "name": "Load scaler",
+          "passed": true,
+          "details": "Scaler loaded successfully"
+        },
+        {
+          "name": "Load data stats",
+          "passed": true,
+          "details": "Total samples: 36000"
+        }
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "pass_rate": 100.0
+      }
+    },
+    "Protocol Predictions": {
+      "tests": [
+        {
+          "name": "Protocol B92",
+          "passed": 
