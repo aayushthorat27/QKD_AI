@@ -218,12 +218,5 @@ This project is developed for academic purposes at PICT as part of the BE Quantu
 
 ## Authors
 
-Developed as part of the Quantum Teleportation Project - Phase 2
+Developed as part of the Quantum Teleportation Project 
 
-## References
-
-- Bennett, C. H., & Brassard, G. (1984). BB84 Protocol
-- Bennett, C. H., Brassard, G., & Mermin, N. D. (1992). BBM92 Protocol
-- Scarani, V., et al. (2004). SARG04 Protocol
-- Bruß, D. (1998). Six-State Protocol
-- Hwang, W. Y. (2003). Decoy State Protocol
